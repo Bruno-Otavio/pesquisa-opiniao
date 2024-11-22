@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756339328171",
+    "project_id": "pesquisa-opiniao-9b2cd",
+    "storage_bucket": "pesquisa-opiniao-9b2cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756339328171:android:90985dd55bbe1d19fc23ee",
+        "android_client_info": {
+          "package_name": "com.example.pesquisa_opiniao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCtkkvHC20HGRpUuBFaBEh0C8GSP_S_EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
